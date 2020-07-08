@@ -11,6 +11,9 @@
 .price{
     color: #FF136F;
 }
+.price1{
+    color: dimgray;
+}
 .buy-now-button{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
@@ -18,4 +21,54 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.buy-now-button1{
+    background-image: linear-gradient(-70deg, #FF68DF,#FF00C9 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1{
+    background-image: linear-gradient(45deg, #FFC300, #F0FF00);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-image: linear-gradient(-45deg, #0032FF, #5667E5);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-image: linear-gradient(45deg, #BF00AA, #FF00E4);
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categ h1{
+    color: white;
+}
+.categ img{
+    width: 100px;
+}
+.card{
+    border: none;
+    text-align: center;
+    padding-top: 100px;
+    text-decoration: none;
+
+    padding: 5px 10px;
+    color: white;
+    font-weight: 600;
+    box-shadow: 5px 5px 12px lightgray;
+}
+.card-text{
+    color: #525252;
+}
+.card-title{
+    color: black;
+}
+.not{
+    text-decoration: none;
+    color: white;
 }
